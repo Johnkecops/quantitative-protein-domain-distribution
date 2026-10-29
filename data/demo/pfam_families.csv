@@ -1,0 +1,13 @@
+domain,family,note
+zf-C2H2,Zinc finger (C2H2),SCOP SF 57667 proxy
+Forkhead,Winged helix,SCOP SF 46785 proxy
+HSF_DNA-bind,Winged helix,SCOP SF 46785 proxy
+RFX_DNA_binding,Winged helix,SCOP SF 46785 proxy
+WHD_E2F_TDP,Winged helix,SCOP SF 46785 proxy
+bZIP_1,Leucine zipper,SCOP SF 57979 proxy
+bZIP_2,Leucine zipper,SCOP SF 57979 proxy
+HMG_box,HMG box,SCOP SF 47095 proxy
+HMG_box_2,HMG box,SCOP SF 47095 proxy
+Zn_clus,Zn2Cys6 (fungal),positive control
+Fungal_trans,Fungal TF middle domain,positive control
+Fungal_trans_2,Fungal TF middle domain,positive control

@@ -1,0 +1,5 @@
+species,dataset,peptides_transcripts,peptides_genscan,domains_transcripts,domains_genscan,domains_genomic_translation
+Human,GRCh37.57,76592,118894,5551,3392,23
+Chimpanzee,CHIMP2.1.57,34142,96615,3769,2796,
+Gorilla,gorGor3.57,27325,113532,3386,3323,
+Yeast,SGD1.01.57,5885,4197,621,614,409

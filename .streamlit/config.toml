@@ -1,0 +1,8 @@
+[server]
+# Uploads are size-capped again after gunzip in domains.MAX_BYTES.
+maxUploadSize = 200
+enableXsrfProtection = true
+enableCORS = true
+
+[browser]
+gatherUsageStats = false
